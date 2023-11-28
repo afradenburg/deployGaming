@@ -1,6 +1,6 @@
 import React from "react";
 import Galery from "./components_details/Galery/Galery";
-import Advertising from "./components_details/Advertising/AdvertisingHandler.jsx";
+import Advertising from "./components_details/Advertising/Advertising.jsx";
 import Buy from "./components_details/Buy/Buy";
 
 
